@@ -2,6 +2,10 @@
 
 Este script extrai o texto de um artigo da web e o traduz para o idioma desejado usando o modelo de linguagem OpenAI Azure.
 
+## Notebook utilizando a api do Azure Translator
+
+Nome: **dio_tradutor_azure_desafio_projeto_tradutor_openai.ipynb** 
+
 ## Pré-requisitos
 
 * **API Key do Azure OpenAI:** Você precisa de uma chave de assinatura para usar o Azure OpenAI. Obtenha uma chave gratuita em [https://azure.microsoft.com/en-us/products/cognitive-services/openai/](https://azure.microsoft.com/en-us/products/cognitive-services/openai/).
