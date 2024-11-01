@@ -4,7 +4,7 @@ Este script extrai o texto de um artigo da web e o traduz para o idioma desejado
 
 ## Notebook utilizando a api do Azure Translator
 
-Nome: **dio_tradutor_azure_desafio_projeto_tradutor_openai.ipynb** 
+Nome: [dio_tradutor_azure_desafio_projeto_tradutor_openai.ipynb](dio_tradutor_azure_desafio_projeto_tradutor_openai.ipynb) 
 
 ## Pré-requisitos
 
