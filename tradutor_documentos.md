@@ -87,5 +87,5 @@ path_translated = translate_document(path)
 print(f'O documento traduzido foi salvo em: {path_translated}')
 ```
 
-### Código gerado por IA e revisado por humano
+### Texto gerado por IA e revisado por humano
 
