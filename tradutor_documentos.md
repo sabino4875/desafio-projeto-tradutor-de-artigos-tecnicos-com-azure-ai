@@ -4,7 +4,7 @@ Este script traduz documentos do Word (.docx) para o idioma desejado utilizando 
 
 ## Notebook utilizando a api do Azure Translator
 
-Nome: **dio_tradutor_azure_desafio_projeto_tradutor.ipynb** 
+Nome: [dio_tradutor_azure_desafio_projeto_tradutor.ipynb](dio_tradutor_azure_desafio_projeto_tradutor.ipynb)
 
 ## Pré-requisitos
 
