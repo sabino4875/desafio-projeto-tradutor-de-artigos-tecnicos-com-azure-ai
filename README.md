@@ -4,7 +4,7 @@ Este repositório contém notebooks para tradução de textos, utilizando difere
 
 ### Opções de Tradução
 
-* **Tradutor de Artigos:** Traduz artigos da internet.
+* **Tradutor de Artigos:** Traduz artigos da internet utilizando a API do OpenAI.
     * Acesse a documentação do tradutor de artigos: [tradutor_artigos.md](tradutor_artigos.md)
 * **Tradutor de Documentos:** Traduz documentos do Word (.docx) utilizando a API do Azure Translator.
     * Acesse a documentação do tradutor de documentos: [tradutor_documentos.md](tradutor_documentos.md)
