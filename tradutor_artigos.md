@@ -102,4 +102,4 @@ article = translate_article(text, "pt-br")
 print(article)
 ```
 
-### Código gerado por IA e revisado por humano
+### Texto gerado por IA e revisado por humano
