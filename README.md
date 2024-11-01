@@ -4,8 +4,8 @@ Este repositório contém notebooks para tradução de textos, utilizando difere
 
 ### Opções de Tradução
 
-* **Tradutor de Arquivos:** Traduz arquivos de texto com diferentes formatos, como `.txt`, `.csv` e `.json`.
-    * Acesse a documentação do tradutor de arquivos: [tradutor_arquivos.md](tradutor_arquivos.md)
+* **Tradutor de Artigos:** Traduz artigos da internet.
+    * Acesse a documentação do tradutor de artigos: [tradutor_artigos.md](tradutor_artigos.md)
 * **Tradutor de Documentos:** Traduz documentos do Word (.docx) utilizando a API do Azure Translator.
     * Acesse a documentação do tradutor de documentos: [tradutor_documentos.md](tradutor_documentos.md)
 
